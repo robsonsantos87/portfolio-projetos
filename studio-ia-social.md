@@ -4,6 +4,12 @@
 **Papel no projeto:** Definição de escopo e regras de acesso; estruturação do MVP e acompanhamento de implementação/testes.  
 **Situação:** Fundação do MVP; recursos de geração de conteúdo com IA ainda não são apresentados como concluídos.
 
+## Demonstração visual (ilustrativa)
+
+![studio-ia-social — mockup demonstrativo gerado por IA](studio-ia-social-evidencia-visual.png)
+
+*Mockup demonstrativo gerado por inteligência artificial, não uma captura de tela real. Representação conceitual da arquitetura multiempresa e dos perfis de acesso. Indicadores, painéis e recursos exibidos são fictícios e não devem ser interpretados como funcionalidades concluídas.*
+
 ## Problema
 
 Estruturar uma aplicação capaz de atender múltiplas empresas e seus usuários sem misturar cadastros e permissões.
