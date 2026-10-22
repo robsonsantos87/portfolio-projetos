@@ -14,6 +14,7 @@ Sou profissional com experiência em educação corporativa, análise de process
 | Ayla | Agente de IA e integrações | MVP em evolução | [Ver projeto](ayla.md) |
 | Nosso Financeiro | Gestão financeira e conciliação | Em desenvolvimento e homologação | [Ver projeto](nosso-financeiro.md) |
 | Studio IA Social | Aplicação multiempresa | Fundação do MVP | [Ver projeto](studio-ia-social.md) |
+| Portal de Educação | Processos educacionais, gestão de instrutores e perfis de acesso | Módulo documentado em versão piloto; estudo de caso anonimizado | [Ver projeto](portal-educacao.md) |
 
 ## Competências ilustradas pelo conjunto
 
@@ -25,7 +26,7 @@ Sou profissional com experiência em educação corporativa, análise de process
 
 ## Tecnologias e ferramentas usadas nos projetos
 
-`WordPress` · `PHP` · `JavaScript` · `HTML/CSS` · `MySQL` · `Supabase/PostgreSQL` · `Git/GitHub` · `integrações com APIs`
+`Python/FastAPI` · `WordPress` · `PHP` · `JavaScript` · `HTML/CSS` · `MySQL` · `Supabase/PostgreSQL` · `Git/GitHub` · `integrações com APIs`
 
 *Tecnologias variam por projeto. O uso de uma ferramenta não implica nível avançado de proficiência.*
 
