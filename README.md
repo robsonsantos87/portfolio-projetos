@@ -10,10 +10,10 @@ Sou profissional com experiência em educação corporativa, análise de process
 
 | Projeto | Área | Situação descrita | Estudo de caso |
 | --- | --- | --- | --- |
-| PotencI.A | WordPress, formulários e agendamento | Plataforma própria em evolução | [Ver projeto](projetos/potencia.md) |
-| Ayla | Agente de IA e integrações | MVP em evolução | [Ver projeto](projetos/ayla.md) |
-| Nosso Financeiro | Gestão financeira e conciliação | Em desenvolvimento e homologação | [Ver projeto](projetos/nosso-financeiro.md) |
-| Studio IA Social | Aplicação multiempresa | Fundação do MVP | [Ver projeto](projetos/studio-ia-social.md) |
+| PotencI.A | WordPress, formulários e agendamento | Plataforma própria em evolução | [Ver projeto](potencia.md) |
+| Ayla | Agente de IA e integrações | MVP em evolução | [Ver projeto](ayla.md) |
+| Nosso Financeiro | Gestão financeira e conciliação | Em desenvolvimento e homologação | [Ver projeto](nosso-financeiro.md) |
+| Studio IA Social | Aplicação multiempresa | Fundação do MVP | [Ver projeto](studio-ia-social.md) |
 
 ## Competências ilustradas pelo conjunto
 
