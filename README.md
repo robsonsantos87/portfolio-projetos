@@ -32,7 +32,7 @@ Sou profissional com experiência em educação corporativa, análise de process
 
 ## Demonstrações e evidências
 
-As páginas dos projetos apresentam escopo e estado atual. Capturas de tela, vídeos, demonstrações públicas e métricas serão incluídos apenas após validação e, quando aplicável, autorização. Não são utilizados números de desempenho ou resultados inventados.
+Cada estudo de caso contém um **mockup demonstrativo gerado por IA**, identificado como ilustração — **não é captura real nem comprovação de funcionalidades concluídas**. Capturas de tela reais, vídeos, demonstrações públicas e métricas serão adicionados somente após validação e, quando necessário, autorização. Não são apresentados números de desempenho inventados.
 
 ## Privacidade e propriedade intelectual
 
