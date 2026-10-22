@@ -4,6 +4,12 @@
 **Papel no projeto:** Levantamento de necessidades, estruturação da solução, implementação com ferramentas de desenvolvimento e IA, testes e ajustes.  
 **Situação:** Solução própria em evolução contínua.
 
+## Demonstração visual (ilustrativa)
+
+![potencia — mockup demonstrativo gerado por IA](potencia-evidencia-visual.png)
+
+*Mockup demonstrativo gerado por inteligência artificial, não uma captura de tela real. Visão conceitual da captação de projetos, formulários condicionais e agendamento. A composição é ilustrativa e não reproduz telas exatas do site.*
+
 ## Problema
 
 Organizar a apresentação de serviços e facilitar a entrada de solicitações comerciais, evitando contatos sem informação suficiente para compreender o que o cliente precisa.
