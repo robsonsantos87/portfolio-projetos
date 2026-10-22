@@ -5,6 +5,12 @@
 **Papel no projeto:** Levantamento de necessidades, definição de fluxos e perfis de acesso, acompanhamento da implementação, testes e refinamento funcional com apoio de ferramentas de desenvolvimento e IA.  
 **Situação:** Módulo de gestão de instrutores documentado em versão piloto; este texto não afirma implantação integral nem resultados quantitativos.
 
+## Demonstração visual (ilustrativa)
+
+![portal-educacao — mockup demonstrativo gerado por IA](portal-educacao-evidencia-visual.png)
+
+*Mockup demonstrativo gerado por inteligência artificial, não uma captura de tela real. Representação conceitual e anonimizada da gestão de instrutores. Nomes, telas, campos e indicadores são fictícios; a imagem não corresponde a registros reais da instituição.*
+
 ## Desafio de negócio
 
 Apoiar a organização e a consulta de cadastros de instrutores, com diferentes responsabilidades de acesso, informações estruturadas por área de atuação e aproveitamento de registros já existentes.
