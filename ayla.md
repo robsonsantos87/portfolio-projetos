@@ -4,6 +4,12 @@
 **Papel no projeto:** Definição de fluxos e requisitos, estruturação da solução, implementação assistida por ferramentas de desenvolvimento e IA, testes e evolução.  
 **Situação:** MVP em evolução.
 
+## Demonstração visual (ilustrativa)
+
+![ayla — mockup demonstrativo gerado por IA](ayla-evidencia-visual.png)
+
+*Mockup demonstrativo gerado por inteligência artificial, não uma captura de tela real. Representação conceitual do atendimento com IA, diagnóstico, briefing, transferência para atendimento humano e agendamento. Fluxos em evolução podem aparecer de forma idealizada.*
+
 ## Problema
 
 Reunir, já no primeiro contato comercial, informações úteis para entender a necessidade do cliente e permitir uma passagem organizada para atendimento humano.
