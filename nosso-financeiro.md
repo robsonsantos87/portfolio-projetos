@@ -4,6 +4,12 @@
 **Papel no projeto:** Definição de necessidades, especificação de regras, testes com faturas e validação de resultados com apoio de ferramentas de desenvolvimento e IA.  
 **Situação:** Em desenvolvimento e homologação; importação definitiva sujeita a controles de aprovação.
 
+## Demonstração visual (ilustrativa)
+
+![nosso-financeiro — mockup demonstrativo gerado por IA](nosso-financeiro-evidencia-visual.png)
+
+*Mockup demonstrativo gerado por inteligência artificial, não uma captura de tela real. Representação conceitual da conferência de faturas, revisão e identificação de duplicidades. A imagem não indica que a importação definitiva ou o fechamento financeiro já estejam disponíveis em produção.*
+
 ## Problema
 
 A entrada manual de lançamentos a partir de faturas aumenta o trabalho de conferência e o risco de duplicidade ou erro de valor.
