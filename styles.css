@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Manrope:wght@400;500;600;700;800&display=swap');
 
 :root {
   color-scheme: light;
@@ -245,7 +245,6 @@ h2{font-size:clamp(38px,4.2vw,62px);font-weight:800;letter-spacing:-.07em;margin
 }
 
 /* ===== ROBSON SANTOS / PORTFÓLIO EDITORIAL PREMIUM / V2 ===== */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap');
 
 :root {
  --ink:#0e2023; --ink-2:#172a2d; --body:#475a59; --muted:#6b7c7a;
