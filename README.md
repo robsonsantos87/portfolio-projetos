@@ -38,4 +38,6 @@ Cada estudo de caso contém um **mockup demonstrativo gerado por IA**, identific
 
 Este portfólio é separado dos repositórios de implementação. Sistemas institucionais, contratos de clientes, dados financeiros e demais informações protegidas não são publicados. Projetos de terceiros só recebem detalhes identificáveis quando houver autorização para divulgação.
 
-**Contato:** [PotencI.A](https://potencia.site/) · [Perfil GitHub](https://github.com/robsonsantos87)
+**Contato profissional:** [LinkedIn](https://www.linkedin.com/in/robson-santos-ia/) · [WhatsApp](https://wa.me/5531991328291) · [GitHub](https://github.com/robsonsantos87)
+
+**Portfólio web:** https://robsonsantos87.github.io/portfolio-projetos/ — dedicado à trajetória e aos projetos profissionais de Robson Santos, sem vínculo comercial com a apresentação da PotencI.A.
