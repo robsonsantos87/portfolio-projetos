@@ -24,20 +24,21 @@ Este repositório contém o portfólio profissional de Robson Santos. O site foi
 
 **Não alterar o domínio raiz `potencia.site` nem seu site existente.**
 
-Depois que o site padrão funcionar:
+Somente depois que o endereço padrão do GitHub Pages funcionar:
 
-1. Na área de DNS onde `potencia.site` é administrado, crie/ajuste um registro:
+1. Se possível, valide a propriedade do domínio nas configurações da conta GitHub, para proteger contra sequestro de subdomínio.
+2. **Primeiro** no GitHub, em **Settings > Pages > Custom domain**, digite `robson.potencia.site` e clique em **Save**. Na publicação por branch, isso cria um arquivo `CNAME` na raiz.
+3. **Depois**, no provedor que gerencia os DNS de `potencia.site`, crie/ajuste este registro:
    - Tipo: `CNAME`
    - Nome/Host: `robson`
    - Destino: `robsonsantos87.github.io`
    - TTL: padrão do provedor.
-2. No GitHub, em **Settings > Pages > Custom domain**, digite `robson.potencia.site` e salve.
-3. Aguarde a verificação do DNS e ative **Enforce HTTPS** quando disponibilizado.
-4. Confira https://robson.potencia.site em navegador privado e também pelo celular.
+4. Aguarde a verificação do DNS e ative **Enforce HTTPS** quando disponibilizado.
+5. Confira https://robson.potencia.site em navegador privado e também pelo celular.
 
-O CNAME deve apontar para `robsonsantos87.github.io` **sem `/portfolio-projetos`**. Não utilizar registro wildcard.
+O CNAME DNS deve apontar para `robsonsantos87.github.io` **sem `/portfolio-projetos`**. Não utilizar registro wildcard. Não altere registros de `@` ou `www`, que podem atender o site comercial.
 
-**Segurança:** não deixe o DNS apontando para GitHub Pages se o site estiver desabilitado ou sem a configuração do domínio, para evitar risco de tomada do subdomínio.
+**Segurança:** o GitHub recomenda configurar o domínio no GitHub antes de apontar o DNS para ele. Não deixe o DNS apontando para Pages se o site estiver desabilitado ou sem a configuração do domínio.
 
 Referência: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
 
